@@ -1,0 +1,3 @@
+25.09.2014 - indicates value with PWM.
+26.09.2014 - mode setup with buttons
+30.09.2014 - work with button
